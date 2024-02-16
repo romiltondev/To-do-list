@@ -17,5 +17,5 @@
 ### Instale as dependências do projeto:
     npm install
 ### Imagens do Projeto:
-!(/assets/to-do.jpg)
-!(/assets/todo-list.jpg)
+![to-do](/assets/to-do.jpg)
+![todo-list](/assets/todo-list.jpg)
