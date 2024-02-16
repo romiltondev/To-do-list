@@ -1,6 +1,6 @@
-###Aplicativo de Lista de Tarefas (To-Do List)
-  - O aplicativo de lista de tarefas é uma aplicação simples desenvolvida em React Native para gerenciar tarefas diárias.
-    Os usuários podem adicionar e excluir tarefas da lista.
+#Aplicativo de Lista de Tarefas (To-Do List)
+**O aplicativo de lista de tarefas é uma aplicação simples desenvolvida em React Native para gerenciar tarefas diárias.
+    Os usuários podem adicionar e excluir tarefas da lista.**
 ##Funcionalidades Principais
   - Adicionar novas tarefas à lista.
   - Excluir tarefas da lista.
