@@ -16,3 +16,6 @@
     cd To-do-list
 ### Instale as dependências do projeto:
     npm install
+### Imagens do Projeto:
+![https://github.com/romiltondev/To-do-list/blob/master/assets/to-do.jpg]
+![https://github.com/romiltondev/To-do-list/blob/master/assets/todo-list.jpg]
